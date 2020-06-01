@@ -17,5 +17,5 @@ X-KDE-PluginInfo-Version=
 X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/WinXP-dark-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1387649,kns://plasma-themes.knsrc/api.kde-look.org/1387656,kns://aurorae.knsrc/api.kde-look.org/1387647,kns://icons.knsrc/api.kde-look.org/1366371,kns://wallpaper.knsrc/api.kde-look.org/1387645,kns://sddmtheme.knsrc/api.kde-look.org/1387651
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1389013,kns://plasma-themes.knsrc/api.kde-look.org/1389018,kns://aurorae.knsrc/api.kde-look.org/1389012,kns://icons.knsrc/api.kde-look.org/1366371,kns://wallpaper.knsrc/api.kde-look.org/1389010,kns://sddmtheme.knsrc/api.kde-look.org/1389014
 X-Plasma-MainScript=defaults
